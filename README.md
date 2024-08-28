@@ -1,1 +1,1 @@
-Final Project for Decision Support Systems course
+Final Project for Decision Support Systems (DSS)
